@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lightning Talks</string>
+    <string name="search">Search</string>
+
+    <string name="search_content_provider_authority">com.github.rogerp91.android.talks.presentation.provider.searchContentProvider</string>
+</resources>
